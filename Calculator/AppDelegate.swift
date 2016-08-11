@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by John Abreu on 4/10/15.
-//  Copyright (c) 2015 John Abreu. All rights reserved.
+//  Created by John Abreu on 6/20/16.
+//  Copyright © 2016 John Abreu. All rights reserved.
 //
 
 import UIKit
